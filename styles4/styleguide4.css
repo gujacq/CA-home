@@ -726,7 +726,7 @@ button,
   color: #ffffff;
   cursor: pointer;
   display: inline-block;
-  font-family: "didact gothic", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-size: 1.7rem;
   font-weight: 700;
   line-height: 1;
@@ -1595,7 +1595,7 @@ p {
   margin-top: 1em; }
 
 a {
-  font-family: "didact gothic";
+  font-family: "Ubuntu";
   color: #0071bc;
   text-decoration: underline; }
   a:hover, a:active {
